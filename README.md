@@ -2,7 +2,7 @@
 
 This repository contains an interactive **Power BI dashboard** built to analyze mobile sales across multiple dimensions such as city, brand, mobile model, payment method, customer ratings, and time-based trends.
 
-
+<img width="1549" height="872" alt="Sales Data Dashboard" src="https://github.com/user-attachments/assets/800a3fa1-cce5-4c08-b671-7322049d65bc" />
 
 ---
 
