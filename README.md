@@ -74,5 +74,4 @@ for Apple, Samsung, OnePlus, Vivo, Xiaomi.
 
 ---
 
-## 📁 Project Structure
 
